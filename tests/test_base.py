@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from turbo_parakeet.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "turbo_parakeet"
