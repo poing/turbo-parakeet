@@ -4,6 +4,8 @@ Changelog
 
 (unreleased)
 ------------
+- Set version. [poing]
+- Release: version  🚀 [poing]
 - Update main.yml. [Brian LaVallee]
 
   Set Codecov to GitHub Actions
