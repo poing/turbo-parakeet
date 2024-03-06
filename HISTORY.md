@@ -4,6 +4,21 @@ Changelog
 
 (unreleased)
 ------------
+- Update VERSION. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+- Update main.yml. [Brian LaVallee]
+
+  Trying to get the codecov to work.
+- Action testing. [poing]
+- Release: version  🚀 [poing]
 - Set version. [poing]
 - Release: version  🚀 [poing]
 - Update main.yml. [Brian LaVallee]
