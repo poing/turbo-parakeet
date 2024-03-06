@@ -48,12 +48,11 @@ jobs:
         run: make install
       - name: Run tests
         run: make test
-      - name: "Upload coverage to Codecov"
-      uses: codecov/codecov-action@v4.0.1
-      with:
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v4.0.1
+        with:
           token: ${{ secrets.CODECOV_TOKEN }}
           slug: poing/turbo-parakeet
-
   tests_mac:
     needs: linter
     strategy:
