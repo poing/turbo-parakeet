@@ -1,2 +1,4 @@
 site_name: turbo_parakeet
 theme: readthedocs
+docs_dir: docs_source
+site_dir: docs
