@@ -2,8 +2,9 @@ Changelog
 =========
 
 
-(unreleased)
-------------
+0.0.0 (2024-03-07)
+------------------
+- Release: version 0.0.0 🚀 [poing]
 - Changed to support gh pages. [poing]
 - Delete CNAME. [Brian LaVallee]
 - Create CNAME. [Brian LaVallee]
