@@ -2,6 +2,16 @@ Changelog
 =========
 
 
+(unreleased)
+------------
+- Release fix. [poing]
+
+
+0.0.1 (2024-03-07)
+------------------
+- Release: version 0.0.1 🚀 [poing]
+
+
 0.0.0 (2024-03-07)
 ------------------
 - Release: version 0.0.0 🚀 [poing]
