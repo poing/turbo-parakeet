@@ -4,6 +4,12 @@ Changelog
 
 (unreleased)
 ------------
+- Gh-release change. [poing]
+
+
+0.0.2 (2024-03-07)
+------------------
+- Release: version 0.0.2 🚀 [poing]
 - Release fix. [poing]
 
 
