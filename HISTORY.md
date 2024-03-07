@@ -4,6 +4,11 @@ Changelog
 
 (unreleased)
 ------------
+- Changed to support gh pages. [poing]
+- Delete CNAME. [Brian LaVallee]
+- Create CNAME. [Brian LaVallee]
+- Update VERSION. [Brian LaVallee]
+- Release: version  🚀 [poing]
 - Update VERSION. [Brian LaVallee]
 - Update main.yml. [Brian LaVallee]
 - Update main.yml. [Brian LaVallee]
